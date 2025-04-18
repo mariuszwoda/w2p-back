@@ -1,2 +1,0 @@
-org.springframework.test.context.ContextCustomizerFactory = \
-    pl.w2p.config.SqlTestContainersSpringContextCustomizerFactory
